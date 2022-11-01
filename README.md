@@ -6,4 +6,6 @@ ER Diagram :
 
 Used Node.js for deployment on localhost.
 
+Full writeup [here](2020050_Deepam_Sarmah.pdf)
+
 *Implemented as a project in [CSE202 - Fundamentals of Database Management System](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE202) course*
