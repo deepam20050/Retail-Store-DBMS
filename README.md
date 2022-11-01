@@ -5,3 +5,5 @@ ER Diagram :
 ![ER Diagram](ER%20Diagram.jpg)
 
 Used Node.js for deployment on localhost.
+
+*Implemented as a project in [CSE202 - Fundamentals of Database Management System](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE202) course*
